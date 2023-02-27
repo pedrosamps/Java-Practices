@@ -1,4 +1,4 @@
-package POO.salarioFuncionario;
+package salarioFuncionario;
 
 public class Main {
     public static void main(String[] args) {

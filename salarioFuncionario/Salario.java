@@ -1,4 +1,4 @@
-package POO.salarioFuncionario;
+package salarioFuncionario;
 import java.util.Scanner;
 
 public class Salario {
