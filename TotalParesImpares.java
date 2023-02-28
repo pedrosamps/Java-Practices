@@ -14,10 +14,12 @@ public class TotalParesImpares {
             } else {
                 totimpar++;
             }
+            teclado.close();
         }
         System.out.println();
         System.out.println("O total de PARES: " + totpar);
         System.out.println("O total de ÍMPARES: " + totimpar);
-        teclado.close();
+        
     }
+    
 }
